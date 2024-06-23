@@ -16,4 +16,7 @@ This repository contains a collection of simple applications developed using the
 1. **Bank**: Allows adding, editing, and deleting users.
 2. **My/your Unversity**: Allows adding, editing, and deleting .
 3. **Pharm**: Allows recording and tracking orders.
+## License
+This project is distributed under the **MIT** License.
+
 
